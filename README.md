@@ -1,10 +1,11 @@
 # Respository for Machine Learning with Python  
 ### Project list
-1. Rock Paper Scissors
-2. Cat and Dog Image Classifier  
-3. Book Recommendation Engine using KNN  
-4. Linear Regression Health Costs Calculator  
-5. Neural Network SMS Text Classifier  
+1. Rock Paper Scissors  
+   Create as a rule-based AI
+3. Cat and Dog Image Classifier  
+4. Book Recommendation Engine using KNN  
+5. Linear Regression Health Costs Calculator  
+6. Neural Network SMS Text Classifier  
 # Please note
 The code provided by freeCodeCamp is marked with the comment # --- Provided by freeCodeCamp ---.
 # Acknowledgments
